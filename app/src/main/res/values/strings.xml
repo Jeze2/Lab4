@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="i_m_parked_here">I\'m parked here</string>
+    <string name="no_location_saved">No location saved</string>
+</resources>
